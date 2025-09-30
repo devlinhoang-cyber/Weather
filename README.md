@@ -5,4 +5,3 @@ Seattle U Weather project
 ├── reports/              # Generated reports and visualizations
 ├── requirements.txt      # Dependencies
 └── README.md             # Project documentation  
-#Goal of this project is to compare and contrast the precipitation between two different cities. 
